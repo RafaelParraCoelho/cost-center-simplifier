@@ -11,7 +11,3 @@ Este script em **Python** automatiza a extração e transformação de dados de 
 - Arredonda os valores para **2 casas decimais**.  
 - Gera instruções SQL no formato:  
 
-```sql
-UPDATE TB_PRODUTOS 
-SET VL_CUSTOULTLIQ = 123.45 
-WHERE PK_ID = 'XYZ123';
